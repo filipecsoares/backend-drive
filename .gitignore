@@ -3,7 +3,8 @@
 
 # compiled output
 /dist
-/tmp
+/tmp/*
+!tmp/.gitkeep
 /out-tsc
 
 # dependencies
